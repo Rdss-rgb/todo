@@ -1,0 +1,54 @@
+{
+  "display_name": "Translate me ---> Category",
+  "fields": {
+    "Category": {
+      "display_name": "Translate me ---> Category",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "CategoryList": {
+      "display_name": "Translate me ---> Category List",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "ID": {
+      "display_name": "Translate me ---> ID",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "Icon": {
+      "display_name": "Translate me ---> Icon",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "Name": {
+      "display_name": "Translate me ---> Name",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "Todo": {
+      "display_name": "Translate me ---> Todo",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "TodoID": {
+      "display_name": "Translate me ---> Todo ID",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    }
+  }
+}

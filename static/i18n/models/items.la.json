@@ -1,0 +1,40 @@
+{
+  "display_name": "Translate me ---> Items",
+  "fields": {
+    "Cost": {
+      "display_name": "Translate me ---> Cost",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "Description": {
+      "display_name": "Translate me ---> Description",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "ID": {
+      "display_name": "Translate me ---> ID",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "Name": {
+      "display_name": "Translate me ---> Product Name",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "Rating": {
+      "display_name": "Translate me ---> Rating",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    }
+  }
+}
